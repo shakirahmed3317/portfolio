@@ -9,7 +9,7 @@ function App() {
         <div className="intro">
           <p className="greeting">Hi, I'm</p>
           <h1 className="name">Shakir</h1>
-          <p className="title">Software Engineer</p>
+          <p className="title">a Software Engineer</p>
         </div>
       </div>
 
